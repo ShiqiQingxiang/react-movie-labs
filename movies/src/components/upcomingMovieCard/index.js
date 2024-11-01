@@ -75,6 +75,7 @@ export default function UpcomingMovieCard({ movie, action }) {
               More Info ...
             </Button>
         </Link>
+        
       </CardActions>
     </Card>
   );
